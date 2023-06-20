@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply w-3/4 bg-zinc-900 m-auto text-white font-mono;
+}
